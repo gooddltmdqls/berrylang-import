@@ -1,0 +1,3 @@
+import 'github:gooddltmdqls/berrylang-import@main.berry'
+
+func notmangbot() { return mangbot() + "이 아님!!" }
