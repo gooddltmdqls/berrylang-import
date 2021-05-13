@@ -1,0 +1,11 @@
+import 'github:minibox24/berrylang-test@render.berry'
+
+insrender(array, defimo, imojis) {
+map = array
+
+defaultEmoji = defimo
+
+emojis = imojis
+
+return render(map, defaultEmoji, emojis)
+}
